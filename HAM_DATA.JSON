@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "version": "1.4.0",
+    "notice": "TACTICAL NOTICE: This holotape contains downloaded intelligence. Verify live ownership at nv-mp.com/radd/captures.",
+    "msg": "Everybody has a name."
+  },
+  "briefing": [
+    "Check Pip before patrol, interview, raid, faction meeting, or broadcast.",
+    "Record faction answers with screenshot or video when possible.",
+    "Nobody is to be called ghoul, mutie, smoothskin, or anything but their name.",
+    "Field Notes keyboard restored. Shake/tap while editing saves the note."
+  ],
+  "raddSummary": [
+    {
+      "owner": "Enclave Remnants",
+      "count": 65,
+      "hq": "Nellis AFB",
+      "note": "Largest confirmed RADD owner in current HAM archive."
+    },
+    {
+      "owner": "The 80s",
+      "count": 56,
+      "hq": "",
+      "note": "Major confirmed territorial presence. Known friendly relation with HAM."
+    },
+    {
+      "owner": "New California Republic",
+      "count": 27,
+      "hq": "",
+      "note": "Confirmed holdings include Hoover Dam, Camp McCarran, Mojave Outpost, Primm, and multiple Ranger stations."
+    },
+    {
+      "owner": "High Counsel of HAM",
+      "count": 14,
+      "hq": "",
+      "note": "Confirmed HAM holdings include Spark Bank - Primm Branch, Mutant Camp, Followers locations, and multiple field sites."
+    },
+    {
+      "owner": "Caesar's Legion",
+      "count": 11,
+      "hq": "",
+      "note": "Confirmed holdings include Nelson, Fortification Hill, Cottonwood Cove HQ, and Legion camps."
+    },
+    {
+      "owner": "The Van Graffs",
+      "count": 11,
+      "hq": "",
+      "note": "Confirmed holdings around North Vegas, Freeside, Silver Rush, Hidden Valley, and Strip North Gate."
+    },
+    {
+      "owner": "The Renegades",
+      "count": 10,
+      "hq": "",
+      "note": "Confirmed holdings include Marked Men locations, Ashton Silo, and Villa sites."
+    },
+    {
+      "owner": "The Cazadores",
+      "count": 7,
+      "hq": "Bonnie Springs",
+      "note": "Confirmed HQ at Bonnie Springs."
+    },
+    {
+      "owner": "The Fiends",
+      "count": 6,
+      "hq": "",
+      "note": "Confirmed holdings include No Mans Land, SSHQ sites, and Monte Carlo Suites."
+    },
+    {
+      "owner": "Vault-Tec",
+      "count": 6,
+      "hq": "",
+      "note": "Confirmed holdings include Vaults 3, 11, 22, 34, Vault 21 Gift Shop, and The Strip."
+    },
+    {
+      "owner": "The Lone Rangers",
+      "count": 6,
+      "hq": "Gun Runner's HQ",
+      "note": "Confirmed HQ at Gun Runner's HQ."
+    },
+    {
+      "owner": "The San Francisco Brotherhood of Steel",
+      "count": 6,
+      "hq": "The Steel Palace",
+      "note": "Confirmed Steel Palace presence plus Callville Bay and Devil's Throat."
+    }
+  ],
+  "factionProfiles": [
+    {
+      "name": "The 80s",
+      "status": "Active",
+      "leader": "Tom \"Chud\" Smitty",
+      "holdings": 56,
+      "hq": "",
+      "relations": [
+        "Enclave Remnants",
+        "The Van Graffs",
+        "High Counsel of HAM",
+        "Talon Co - Friendly",
+        "The Renegades - Friendly",
+        "New California Republic - Friendly",
+        "The Lone Rangers - Friendly",
+        "Vault-Tec - Friendly"
+      ],
+      "officers": [
+        "Doc \"Conquest\" Mitchell",
+        "Overtex",
+        "DiEgO",
+        "Drako Drippy",
+        "Miguelllllllito",
+        "Gabe Owners",
+        "Bigmuggs"
+      ],
+      "members": [],
+      "description": "Leader last online about 11 hours ago. Officer activity ranges from 25 minutes ago to about 1 month ago."
+    },
+    {
+      "name": "New California Republic",
+      "status": "Active",
+      "leader": "President Ruh",
+      "holdings": 27,
+      "hq": "",
+      "relations": [
+        "Enclave Remnants",
+        "The 80s - Friendly",
+        "Vault-Tec - Friendly",
+        "Brotherhood of Steel - Friendly",
+        "The Cazadores - Friendly",
+        "People's Republic of Wadiya - Hostile",
+        "The Lone Rangers - Friendly"
+      ],
+      "officers": [
+        "Takao",
+        "Mr_enclave1",
+        "Vice President Moore",
+        "LTC. Lupo \"The Game\" Rodriguez"
+      ],
+      "members": [],
+      "description": "Leader last online 24 days ago. Officer last-online range: 8 days to about 1 month ago."
+    },
+    {
+      "name": "Enclave Remnants",
+      "status": "Active",
+      "leader": "Brick",
+      "holdings": 65,
+      "hq": "Nellis AFB",
+      "relations": [
+        "The 80s",
+        "New California Republic",
+        "The Cazadores",
+        "Sunset Sarsaparilla Conglomerate - Friendly",
+        "The Shi - Friendly",
+        "Vault-Tec - Friendly",
+        "Desert Rangers - Friendly",
+        "Children of the Thorn - Friendly",
+        "The Renegades - Friendly"
+      ],
+      "officers": [
+        "Mr_meme27",
+        "Matteojvillenueve",
+        "Trojan",
+        "SGT. Seth",
+        "\"Doc\" Vinny Fixer",
+        "Skipper",
+        "General Luckystrike",
+        "Gordon3537"
+      ],
+      "members": [],
+      "description": "IC: Western Enclave survivors rebuilding after defeat. OOC: PVP/RP faction with events, missions, objectives, and spark rewards. Current OOC leader listed as General James Castle with Colonel Maximus Maverick as second."
+    },
+    {
+      "name": "Caesar's Legion",
+      "status": "Active",
+      "leader": "Caesar Artorius",
+      "holdings": 11,
+      "hq": "",
+      "relations": [
+        "Anomaly Research Center (A.R.C)",
+        "The Fiends",
+        "The Van Graffs - Friendly",
+        "Children of the Thorn - Friendly",
+        "People's Republic of Wadiya - Friendly"
+      ],
+      "officers": [
+        "Ulysses Glycias",
+        "Mr. Condo",
+        "Jukenott24"
+      ],
+      "members": [
+        "Brahmin Baron Juggo",
+        "Madlad",
+        "Breezy",
+        "Caesar Artorius",
+        "Ulysses Glycias"
+      ],
+      "description": "Leader last online about 19 hours ago."
+    },
+    {
+      "name": "The Van Graffs",
+      "status": "Active",
+      "leader": "Frank \"Hot Dog\" Van Graff",
+      "holdings": 11,
+      "hq": "",
+      "relations": [
+        "The San Francisco Brotherhood of Steel",
+        "The 80s",
+        "High Counsel of HAM",
+        "Caesar's Legion - Friendly"
+      ],
+      "officers": [],
+      "members": [
+        "Frank \"Hot Dog\" Van Graff",
+        "Untamedbush"
+      ],
+      "description": "Leader joined 12 days ago and was last online 1 day ago."
+    },
+    {
+      "name": "The Fiends",
+      "status": "Active",
+      "leader": "Complex.code",
+      "holdings": 6,
+      "hq": "",
+      "relations": [
+        "Anomaly Research Center (A.R.C)",
+        "Caesar's Legion"
+      ],
+      "officers": [],
+      "members": [
+        "Complex.code",
+        "Rotting Head",
+        "Lynton",
+        "General Luckystrike"
+      ],
+      "description": "We don't know much about this group, but we're sure they're great."
+    },
+    {
+      "name": "The San Francisco Brotherhood of Steel",
+      "status": "Active",
+      "leader": "Elder Leviticus",
+      "holdings": 6,
+      "hq": "The Steel Palace",
+      "relations": [
+        "High Counsel of HAM",
+        "The Van Graffs",
+        "Anomaly Research Center (A.R.C)",
+        "Poseidon Energy Co. - Friendly"
+      ],
+      "officers": [
+        "Stinkytaint"
+      ],
+      "members": [
+        "Elder Leviticus",
+        "Nep",
+        "_mxp",
+        "Micheal Hughes",
+        "Florus",
+        "Shooby_da",
+        "Bash Bash",
+        "Stinkytaint"
+      ],
+      "description": "We don't know much about this group, but we're sure they're great."
+    }
+  ],
+  "broadcasts": [
+    "Ask who they are, what land they claim, and what they want known.",
+    "Ask allies what HAM should report, correct, or keep quiet.",
+    "Leadership question: Who can officially speak for your faction?",
+    "Relations question: Which listed relations are active, inactive, or ceremonial?"
+  ],
+  "reports": [
+    "Faction database uses paged dossiers.",
+    "Field Notes keyboard restored.",
+    "RADD Tactical Feed remains summary mode for memory safety.",
+    "For live territory ownership, consult nv-mp.com/radd/captures."
+  ],
+  "updates": [
+    "Field Notes keyboard restored.",
+    "Press an existing note to view, then press again to edit.",
+    "Select + NEW NOTE to create a note.",
+    "While editing: left wheel changes character, right wheel moves cursor, press inserts, shake/tap saves."
+  ],
+  "checklist": [
+    "Check RADD captures page",
+    "Screenshot answers",
+    "Post answered questions",
+    "Verify faction leaders",
+    "Ask if relations are current",
+    "Review broadcast queue",
+    "Verify live ownership at nv-mp.com/radd/captures"
+  ]
+}
